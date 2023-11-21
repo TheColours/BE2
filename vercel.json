@@ -1,0 +1,43 @@
+{
+    "headers": [
+      {
+        "source": "/Build/BE2WebGL.data.br",
+        "headers": [
+          {
+            "key": "Content-Encoding",
+            "value": "br"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/octet-stream"
+          }
+        ]
+      },
+      {
+        "source": "/Build/BE2WebGL.wasm.br",
+        "headers": [
+          {
+            "key": "Content-Encoding",
+            "value": "br"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/wasm"
+          }
+        ]
+      },
+      {
+        "source": "/Build/BE2WebGL.framework.js.br",
+        "headers": [
+          {
+            "key": "Content-Encoding",
+            "value": "br"
+          },
+          {
+            "key": "Content-Type",
+            "value": "application/javascript"
+          }
+        ]
+      }
+    ]
+  }
